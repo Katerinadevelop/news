@@ -1,0 +1,19 @@
+.Notification-error-icon {
+    margin-right: 10px;
+    fill: #fa4d56;
+}
+
+.Notification-success-icon {
+    margin-right: 10px;
+    fill: #42be65;
+}
+
+.Notification-info-icon {
+    margin-right: 10px;
+    fill: #4589ff;
+}
+
+.Notification-warning-icon {
+    margin-right: 10px;
+    fill: #f1c21b;
+}

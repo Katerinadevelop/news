@@ -1,0 +1,21 @@
+.story-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+}
+
+.title-container {
+    width: 100%;
+}
+
+.votes-container {
+    font-size: 14px;
+    width: 100%;
+}
+
+.comment-link {
+    cursor: pointer;
+    margin-left: 20px;
+}
